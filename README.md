@@ -16,6 +16,7 @@
           - [作業一](#作業一)
           - [作業二](#作業二)
     - [文件目录说明](#文件目录说明)
+    - [作業一使用數據](#作業一使用數據)
 
 ### 環境
 
@@ -79,6 +80,19 @@ filetree
 |       \---resources
 
 
+```
+### 作業一使用數據
+```java
+		LinkedList<MyDate> dates = new LinkedList<>();
+		dates.add(new MyDate(13,9,2024));
+		dates.add(new MyDate(11,9,2024));
+		dates.add(new MyDate(5,12,2019));
+		dates.add(new MyDate(8,10,2025));
+		dates.add(new MyDate(25,2,2030));
+		dates.add(new MyDate(30,1,2008));
+		dates.add(new MyDate(22,3,2004));
+		dates.add(new MyDate(17,7,2015));
+		dates.add(new MyDate(19,6,2015));
 ```
 
 
