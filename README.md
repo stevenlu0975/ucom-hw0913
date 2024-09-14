@@ -73,11 +73,6 @@ filetree
 |   |   |           \---model
 |   |   |                   LotteryGenerator.java
 |   |   |                   MyDate.java
-|   |   |                   
-|   |   \---resources
-|   \---test
-|       +---java
-|       \---resources
 
 
 ```
