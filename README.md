@@ -27,7 +27,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 21.0.4+8-LTS-274, mixed mode, sharing)
 
 ### 如何使用
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+
 
 
 
